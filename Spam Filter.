@@ -4,8 +4,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "# Making Naive Bayes Using Scikit learn\n",
-    "## `Naive Bayes classification first vectorize then data then Vectoize`"
+    "# Making Naive Bayes Using Scikit learn\n"
    ]
   },
   {
